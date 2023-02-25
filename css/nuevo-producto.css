@@ -1,0 +1,123 @@
+.nuevo-producto {
+    width: 100%;
+    background-color: #E5E5E5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 0;
+}
+
+.nuevo-producto__container {
+    width: 560px;
+    margin: auto;
+}
+
+.nuevo-producto__container-titulo {
+    font-size: 32px;
+}
+
+.drop-area {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 3px dashed #332f2c;
+    height: 22rem;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.drop-area.active {
+    background-color: #b8d4fe;
+    color: black;
+    border: 3px dashed #618a61;
+    border-radius: 10px;
+}
+
+.drop-area.error {
+    background-color: #ffbbbb;
+    color: black;
+    border: 3px dashed #fd4545;
+    border-radius: 10px;
+}
+
+.drop-area__titulo {
+    font-size: 20px;
+    font-weight: 500;
+    color: #332f2c;
+}
+
+.drop-area__btn {
+    padding: 10px 25px;
+    border: 0;
+    font-size: 16px;
+    font-weight: bold;
+    outline: none;
+    background-color: #2A7AE4;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.file-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    border: 1px solid #332f2c;
+}
+
+#preview {
+    margin-top: 10px;
+}
+
+.status-text {
+    padding: 0 10px;
+}
+
+.success {
+    color: green;
+}
+
+.failure {
+    color: red;
+}
+
+
+.span-nombre-producto, .span-precio-producto, .span-descripcion-producto, .span-categoria-producto{
+    font-size: 12px;
+    font-weight: bold;
+    color: red;
+    margin-top: 5px;
+    display: none;
+}
+
+.span-nombre-producto-invalid, .span-precio-producto-invalid, .span-descripcion-producto-invalid, .span-categoria-producto-invalid {
+    display: block;
+}
+
+
+
+@media screen and (max-width: 768px) {
+    .nuevo-producto__container {
+        width: 90%;
+    }
+
+    .nuevo-producto__container-titulo {
+        font-size: 22px;
+    }
+    
+}
+
+@media screen and (max-width: 362px) {
+    .nuevo-producto__container {
+        width: 90%;
+    }
+
+    .nuevo-producto__container-titulo {
+        font-size: 22px;
+        text-align: center;
+    }
+    
+}

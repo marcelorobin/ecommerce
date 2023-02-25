@@ -1,0 +1,246 @@
+{
+  "productos": [
+    {
+      "imagen": "images/stars-wars/01.jpg",
+      "categoria": "starswars",
+      "nombre": "Taza StarsWars",
+      "precio": "990",
+      "descripcion": "Quisque rutrum sed leo in ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur diam nisl, viverra lacinia nulla in, congue auctor massa. Mauris sit amet ipsum arcu. ",
+      "id": "ec08438f-2ad8-4e36-b31e-895236975d36"
+    },
+    {
+      "id": "ec98438f-2ad8-4e36-b31e-895236975d66",
+      "imagen": "images/stars-wars/02.jpg",
+      "categoria": "starswars",
+      "nombre": "Pisa papeles",
+      "precio": 440,
+      "descripcion": "Consola NPM desarrollada por Github"
+    },
+    {
+      "imagen": "images/stars-wars/03.jpg",
+      "categoria": "starswars",
+      "nombre": "Muñeco Yoda",
+      "precio": "780",
+      "descripcion": "Quisque rutrum sed leo in ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur diam nisl, viverra lacinia nulla in, congue auctor massa. Mauris sit amet ipsum arcu. ",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "imagen": "images/stars-wars/04.jpg",
+      "categoria": "starswars",
+      "nombre": "Muñeco soldado",
+      "precio": 440,
+      "descripcion": "Consola NPM desarrollada por Github"
+    },
+    {
+      "imagen": "images/stars-wars/05.jpg",
+      "categoria": "starswars",
+      "nombre": "Muñeco verde",
+      "precio": "850",
+      "descripcion": "Quisque rutrum sed leo in ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur diam nisl, viverra lacinia nulla in, congue auctor massa. Mauris sit amet ipsum arcu. ",
+      "id": 5
+    },
+    {
+      "imagen": "images/stars-wars/06.jpg",
+      "categoria": "starswars",
+      "nombre": "Muñeco negro espada",
+      "precio": "440",
+      "descripcion": "Aliquam eu gravida est. Phasellus dictum, enim id euismod cursus, leo magna tristique felis, ac sagittis felis nisl non massa. Mauris ut velit quis libero vestibulum placerat.",
+      "id": 6
+    },
+    {
+      "imagen": "images/consolas/01.jpg",
+      "categoria": "consolas",
+      "nombre": "Mando XBox",
+      "precio": "550",
+      "descripcion": "Nunc dignissim augue tellus, in tincidunt dui pretium id. Nullam id nisi tempor, gravida orci vel, gravida velit. Nam venenatis vulputate lorem sit amet rhoncus. ",
+      "id": 7
+    },
+    {
+      "imagen": "images/consolas/02.jpg",
+      "categoria": "consolas",
+      "nombre": "Consola PlayStation",
+      "precio": "500",
+      "descripcion": "Phasellus vel imperdiet nibh, at dapibus nibh. Mauris nec quam pharetra, rutrum odio a, placerat nisi. Praesent nec massa eu odio pharetra volutpat. Sed nec turpis sem. Fusce laoreet diam ultricies ex pretium, id molestie elit pharetra.",
+      "id": 8
+    },
+    {
+      "imagen": "images/consolas/03.jpg",
+      "categoria": "consolas",
+      "nombre": "Consola Atari",
+      "precio": "990",
+      "descripcion": "Donec imperdiet justo vel rhoncus hendrerit. Cras viverra tellus nisi, sit amet accumsan mi consectetur in. Aliquam interdum ante gravida, aliquet sapien non, bibendum dolor. ",
+      "id": 9
+    },
+    {
+      "imagen": "images/consolas/04.jpg",
+      "categoria": "consolas",
+      "nombre": "Mandos Atari",
+      "precio": "440",
+      "descripcion": "Fusce finibus mauris sit amet lobortis interdum. Ut vitae volutpat metus. Aenean ultricies dolor a dui molestie, sed molestie tellus sollicitudin.",
+      "id": 10
+    },
+    {
+      "imagen": "images/consolas/05.jpg",
+      "categoria": "consolas",
+      "nombre": "Consola Cuadrada",
+      "precio": "780",
+      "descripcion": "Curabitur ornare felis at mauris dapibus, vel gravida nunc finibus. Suspendisse potenti. Vestibulum at varius ligula, quis ullamcorper tortor. Ut id tincidunt purus. Nulla sit amet ornare ligula.",
+      "id": 11
+    },
+    {
+      "imagen": "images/consolas/06.jpg",
+      "categoria": "consolas",
+      "nombre": "Atari portátil",
+      "precio": "440",
+      "descripcion": "Nullam congue sem non nisl pharetra, a varius risus congue. Donec elit nisi, cursus non arcu blandit, volutpat scelerisque ipsum.",
+      "id": 12
+    },
+    {
+      "id": 13,
+      "imagen": "images/diversos/01.jpg",
+      "categoria": "diversos",
+      "nombre": "Producto F",
+      "precio": 440,
+      "descripcion": "Consola NPM desarrollada por Github"
+    },
+    {
+      "id": 14,
+      "imagen": "images/diversos/02.jpg",
+      "categoria": "diversos",
+      "nombre": "Producto A",
+      "precio": 105.3,
+      "descripcion": "Producto importado, con acabado en acero inoxidable"
+    },
+    {
+      "id": 15,
+      "imagen": "images/diversos/03.jpg",
+      "categoria": "diversos",
+      "nombre": "Producto B",
+      "precio": 440,
+      "descripcion": "Consola NPM desarrollada por Github"
+    },
+    {
+      "id": 16,
+      "imagen": "images/diversos/04.jpg",
+      "categoria": "diversos",
+      "nombre": "Producto C",
+      "precio": 105.3,
+      "descripcion": "Producto importado, con acabado en acero inoxidable"
+    },
+    {
+      "id": 17,
+      "imagen": "images/diversos/05.jpg",
+      "categoria": "diversos",
+      "nombre": "Producto D",
+      "precio": 440,
+      "descripcion": "Consola NPM desarrollada por Github"
+    },
+    {
+      "id": 18,
+      "imagen": "images/diversos/06.jpg",
+      "categoria": "diversos",
+      "nombre": "Producto E",
+      "precio": 105.3,
+      "descripcion": "Producto importado, con acabado en acero inoxidable"
+    },
+    {
+      "id": "54052d0a-d66f-4a28-8673-b075dea97a7e",
+      "imagen": "https://placehold.co/400x400",
+      "categoria": "starswars",
+      "nombre": "Espada Láser lumínica",
+      "precio": "454.99",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac leo lorem. Suspendisse eget elit et dolor maximus semper et sed felis. Curabitur commodo, nulla ornare ornare blandit, "
+    },
+    {
+      "id": "ef75dac2-b8c8-4282-92bf-07a90dba2dad",
+      "imagen": "https://placehold.co/400x400",
+      "categoria": "consolas",
+      "nombre": "Consola Nintendo",
+      "precio": "1344.99",
+      "descripcion": "Integer at risus non dolor mollis vulputate. Mauris nec suscipit mauris, ut tempus ligula. Morbi volutpat porttitor gravida. Etiam eget turpis massa."
+    },
+    {
+      "imagen": "https://placehold.co/400x400",
+      "categoria": "diversos",
+      "nombre": "Buzo de Mario Bros",
+      "precio": "570.00",
+      "descripcion": "Etiam rhoncus maximus tellus, at viverra augue rutrum et. Mauris malesuada aliquam lacus, nec mattis arcu malesuada vel. Aliquam pellentesque, erat et rutrum bibendum, mi justo imperdiet mauris, a pellentesque mi purus ut dolor.",
+      "id": "3fbb6f43-30f7-4cae-aca7-b740652cc322"
+    }
+  ],
+  "mensajes": [
+    {
+      "nombre": "Jesuzo Lopez",
+      "mensaje": "Estoy viendo de comprar una consola NPM, necesitaria asesoramiento sobre Nintendo",
+      "id": 1
+    },
+    {
+      "nombre": "Pancha liliana perez",
+      "mensaje": "Necesito saber si tienen stock de mandos para PlayStation",
+      "id": 2
+    },
+    {
+      "id": "5bad6e49-5efe-49d6-80fd-18335bf1c8f6",
+      "nombre": "Marcelo Andre Robin",
+      "mensaje": "probando un mensaje de contacto"
+    },
+    {
+      "id": "91aa994f-2906-4342-b790-67b9a7094d2b",
+      "nombre": "Marcelo Andre Robin",
+      "mensaje": "probamdo desde todos los productos"
+    },
+    {
+      "id": "1302b893-db42-47e9-a720-378ab67f177d",
+      "nombre": "Marcelo Andre Robin",
+      "mensaje": "probando desde producto detalle"
+    },
+    {
+      "id": "ec08436f-2ad8-4e36-b31e-635236975d36",
+      "nombre": "Marcelo Andre Robin",
+      "mensaje": "probando enviar mensaje desde el login"
+    },
+    {
+      "id": "8e56bbe7-ac3f-4542-a191-243f19994c08",
+      "nombre": "Marcelo Andre Robin",
+      "mensaje": "probando mensaje desde nuevo producto"
+    },
+    {
+      "id": "f5666c72-f575-4f4c-80ee-1831b4de897f",
+      "nombre": "Marcelo Andre Robin",
+      "mensaje": "probando mensaje luego de "
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "email": "correo@correo.com",
+      "password": "Probando123"
+    },
+    {
+      "id": "ee3a154d-f300-48b5-a8c7-f440e502c620",
+      "email": "marcelorobin@gmail.com",
+      "password": "Probando123"
+    },
+    {
+      "id": "651caa12-0458-4090-a57e-d611a7f8b3bd",
+      "email": "marcelorobin@gmail.com",
+      "password": "probando123"
+    },
+    {
+      "id": "1aa0b008-8cc8-4fe2-956f-be814e460b2a",
+      "email": "marcelorobin@gmail.com",
+      "password": "Probando123"
+    },
+    {
+      "id": "eb246eef-acc6-4b76-baca-fcc0985fde0a",
+      "email": "findergreenenergy@gmail.com",
+      "password": "123Probando"
+    },
+    {
+      "id": "21f1b8a5-9ff1-4a10-9678-5aa4787febf7",
+      "email": "mnibor@outlook.com",
+      "password": "Probando123"
+    }
+  ]
+}
